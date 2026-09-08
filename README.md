@@ -15,7 +15,6 @@ El informe fue diseñado bajo estándares de interfaz de usuario modernos (UI/UX
 2. **Independencia Gráfica:** Títulos con calidad gráfica categorizada en *Medio* o *Bajo* mantienen promedios de valoración altamente competitivos, respaldando la hipótesis de que la experiencia del usuario no depende únicamente del renderizado gráfico.
 
 ## 📸 Vista Previa del Dashboard
-![Dashboard Gaming Analytics](./dashboard_gaming.png)
-
+![Dashboard Gaming Analytics](./Screenshot%202026-09-08%20171829.png)
 ---
 *Diseñado por Josefina Lazzarin | Data Analyst*
